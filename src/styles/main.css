@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 2em;
+}
